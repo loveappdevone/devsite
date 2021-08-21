@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Developer homepage
 
-You can use the [editor on GitHub](https://github.com/gundam/privacy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We have been working hard to create and develop new apps to serve more App enthusiasts.
+Life is endless, and the footsteps are endless! Hope to pay more attention and support! Thank you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### OneWork
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+青春把记忆印成彩色的相片，镶嵌在少女如云柔软的裙摆里！
 
 ```markdown
-Syntax highlighted code block
+Individual developers need your attention
 
-# Header 1
-## Header 2
-### Header 3
+> print("Hello world !!") 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gundam/privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us [GitHub](https://github.com/loveappdevone/devsite)
+
+千里之行，始于足下。
